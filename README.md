@@ -1,7 +1,7 @@
 # Multiple Linear Regression with scikit-learn
 
 
-This project is a hands-on lab at <link src="https://www.coursera.org/learn/scikit-learn-multiple-linear-regression/home/welcome">Coursera using scikit-learn for a multiple linear regression problem. 
+This project is a hands-on lab at [Coursera](https://www.coursera.org/learn/scikit-learn-multiple-linear-regression/home/welcome) using scikit-learn for a multiple linear regression problem. 
 
 
 The learning objextives were:
